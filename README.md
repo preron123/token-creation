@@ -13,7 +13,7 @@ To run this project, follow the steps below:
 
 * Clone this repository to your local machine.
 Ensure you have Remix, an online Solidity IDE, installed or access it through your web browser at https://remix.ethereum.org/.
-* Open Remix and create a new file with a .sol extension (e.g., MyToken.sol).
+* Open Remix and create a new file with a .sol extension (e.g., peta.sol).
 * Copy and paste the code from the peta.sol file in this repository into the new file you created in Remix.
 * Compile the code in Remix by navigating to the "Solidity Compiler" tab and clicking on the "Compile peta.sol" button.
 Once the code is successfully compiled, go to the "Deploy & Run Transactions" tab.
