@@ -7,7 +7,7 @@ The project consists of a Solidity contract named MyToken.It is a programming la
 The contract implements a simple token with two essential functions: Mint and Burn. The Mint function increases the token balance of a specified address, while the Burn function decreases the token balance.
 
 # Getting Started
-Video Description : https://drive.google.com/file/d/1giFhewTL9QOU5gBD-iI4rJ6_gY4tEKV7/view?usp=sharing
+Video Description : https://drive.google.com/file/d/1q6fa4tQofubF14xzZylQGJvxvjs8uswS/view?usp=sharing
 
 To run this project, follow the steps below:
 
